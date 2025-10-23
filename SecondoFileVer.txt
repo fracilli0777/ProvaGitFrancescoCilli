@@ -1,1 +1,3 @@
 Git è un software di gestione versione molto carino e utile!
+
+AGGIUNTA
